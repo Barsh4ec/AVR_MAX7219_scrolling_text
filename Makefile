@@ -1,5 +1,5 @@
 # Назва проекту
-PROJECT_NAME = lab_3
+PROJECT_NAME = max_7219_test
 # Модель мікроконтролера
 MCU = atmega328p
 # Частота тактового генератора
